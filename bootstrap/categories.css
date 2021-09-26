@@ -1,0 +1,45 @@
+.img-food
+{
+    position: relative;
+    
+}
+.row_1
+{
+    align-items: center;
+    margin: 100px 500px;
+}
+.content-food
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.menu-food
+{   
+    margin-top: 50px;
+    font-size: 40px;
+    
+}
+.img-food img
+{
+    border-radius: 15px;
+    width: 100%;
+}
+.name-of-food
+{
+    position: absolute;
+    color: #fff;
+    margin-left: 34%;
+    bottom: 50px;   
+}
+.image-add
+{
+    position: relative;
+}
+
+.image-add img
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: -20px;
+}

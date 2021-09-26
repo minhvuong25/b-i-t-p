@@ -1,0 +1,25 @@
+header
+{
+    z-index: 1;
+    height: 80px;
+    margin: 0  5px;
+
+}
+.logo
+{
+    float: left;
+}
+.menu-page ul li
+{
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.menu-page ul li a
+{
+    font-size: 20px;
+    color: #ff0066 ;
+}
+.menu-page ul li  :hover
+{
+    color: #ff1a1a;
+}

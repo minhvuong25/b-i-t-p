@@ -1,0 +1,60 @@
+main
+{
+    height: 600px;
+    background-color: #fff;
+}
+.content
+{
+    padding: 3% ;
+}
+.content .name-content
+{
+    margin-left: 50px;
+}
+.but-add
+{
+    margin-left: 50px;
+}
+.btn-primary
+{
+    background-color: #1e90ff;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-success {
+    background-color: #7bed9f;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger
+{
+    background-color: #ff6b81;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container table  th
+{
+    padding: 1%;
+    margin-top: 50px;
+}
+/* .cell-1 {
+    border-style: none;
+}
+thead tr
+{ 
+    border-bottom: 1px solid black;
+} */
+.cell-2 {
+    
+    border-bottom: 1px solid black;
+}
+
+.cell-1{
+    border-bottom: 1px solid white;
+ }

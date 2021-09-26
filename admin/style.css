@@ -1,0 +1,23 @@
+main
+{
+    height: 400px;
+    background-color: #f1f2f6;
+}
+.content
+{
+    padding: 3% ;
+}
+.content .name-content
+{
+    margin-left: 50px;
+}
+.login
+{
+    margin-left: 50px;
+    color: #2ed573;
+}
+
+.content-box
+{
+    margin-left: 125px;
+}

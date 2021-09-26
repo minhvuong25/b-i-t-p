@@ -1,0 +1,41 @@
+.main-content
+{
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.wrapper {
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.btn-danger {
+    background-color: #ff6b81;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-success {
+    background-color: #7bed9f;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+table tr td {
+    padding: 1%;
+    border-bottom: hidden;
+}
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table 
+{
+   width: 100%;
+}
+.content-img
+{
+    color: #ff4757;
+}

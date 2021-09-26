@@ -1,0 +1,123 @@
+
+.content ul li
+{
+    margin-right: 10px;
+    margin-top: 20px;
+  
+}
+.content ul li a 
+{
+    color: red;
+}
+.content ul li a :hover
+{
+    color: red;
+}
+
+.food-search{
+    background-image: url(./amazing/nen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+    text-align: center;
+}
+.input-search{
+    width: 50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+
+}
+.btn-search {
+    background-color: #ff6b81;
+    color: white;
+    cursor: pointer;
+    padding: 1%;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+.img-food
+{
+    position: relative; 
+}
+.img-food img
+{
+    border-radius: 15px;
+    width: 80%;
+}
+.row_1
+{
+    align-items: center;
+    margin: 100px 500px;
+}
+
+
+.content-food
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.menu-food
+{   
+    margin-top: 50px;
+    font-size: 40px;
+    
+}
+.name-of-food
+{
+    position: absolute;
+    color: #fff;
+    margin-left: 34%;
+    bottom: 50px;   
+}
+.img-food1
+{
+  width: 20%;
+  float: left;
+  border-radius: 9px;
+ margin: 30px;
+}
+.content-food1
+{
+    width: 70%;
+    
+    margin-left: 8%;
+}
+.order-food
+{
+background-color: #ececec;
+}
+.p-3
+{
+    border-radius: 40px;
+}
+.content-food1  .btn-primary 
+{
+ background-color: #ff6b81;
+ border-radius: 9px;
+}
+.content-food1  .btn  :hover
+{
+    background-color: #ff6b81; 
+}
+.content-food1
+{
+    text-align: left ;
+}
+.all-food p 
+{
+   margin-top: 100px;
+}
+.all-food  a:hover 
+{
+    color: red;
+}
+.all-food a
+{
+    color: #ff6b81;
+    text-decoration: none;
+}

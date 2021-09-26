@@ -1,0 +1,21 @@
+.main-content
+{
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.wrapper {
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.tbl-30
+{
+    width: 40%;
+}
+.btn-secondary {
+    background-color: #7bed9f !important;
+    padding: 1%;
+    color: black !important;
+    text-decoration: none;
+    font-weight: bold;
+}
